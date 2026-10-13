@@ -301,6 +301,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **LeWAM**, Latent Evolving World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2609.27455-b31b1b.svg)](https://arxiv.org/abs/2609.27455) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/XuejiFang/LeWAM)
 
+- **GE-Act 2.0**, GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2609.05588-b31b1b.svg)](https://arxiv.org/abs/2609.05588) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ge-act-v2.github.io/)
+
 - **Zero-WAM**, Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization. [![arXiv](https://img.shields.io/badge/arXiv-2608.26103-b31b1b.svg)](https://arxiv.org/abs/2608.26103) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robbyant-research.github.io/Zero-WAM/)
 
 - **Faster-WAM**, Faster-WAM: Efficient Inference-Time Future Conditioning for Robust World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.04404-b31b1b.svg)](https://arxiv.org/abs/2608.04404) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/hustvl/FasterWAM)
